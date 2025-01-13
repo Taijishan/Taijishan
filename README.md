@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taijishan
-- 👀 I’m interested in webnovels, manwha, manhua, manga, listening to music, and playing mobile games.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in music, literature, hobbies and money.
+- 🌱 I’m currently cooked on JavaScript, HTML, JSON, CSS
 - 💞️ I’m looking to collaborate on homework.
 - 📫 How to reach me: you don't.
 
